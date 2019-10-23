@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uil-academics",
+  "private_key_id": "e3225fa166719cc69d8d3fcfaaecbc98c87c1f5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4npshS9coWemf\nkBFv40FBq36zVc2bLWnrGAfKjgS+aHdqSvXslcEaxHycJf0BUWbR/MaJ4ODB+JBV\nI+5k446KdDoPGxbMyTFKNmVnYbpyDodFsEZMPXcgC+zwunfGpaY0P4geRzGyYssa\nFGTX3MtdYWSBbSEACa5PZ94SWLumROJ3EPo9M7OesxJxO/MWBavl/cmgcS5wDqot\nz9R5pknr7u7p7s2cAJ4HlJdTfWbiHevbU2C3ThIIBhw4YzAz2gSMdrc9xSI8r2+R\nqro810euDYf0/207RMcQyqZHyJyT0/eA6Y7SEU++R8oJZTTWSJy/AZcfuyvJvc52\ngojw/YfbAgMBAAECggEAJdY/te28rWTsCAs3P6akL6jNoUSDDHwcupVkt2Mu3rU7\nUBoH19KDTpCZd0kj1rrPp1a2e/iOJ8LhFcn06FFo28BhS8pB/Ht5chu+4Za6ZvjK\nSYKMjcCFIxi+mUGmHZzCeO/SXl459bTgqjomxsTWGw/EUPBENKVHR7fiYAE2iCc5\nKfn/ubW0YUIWu8MlnntPWzJcquVKac8wVIubwA3tsgWPaHwIro23yt+8nVN4EK+W\nxwFvKzuo67FsKxyF4PM/di9C3gOEhTYxc+bYaulymG6H1vBrtp0amX024Yy9jaWE\nLKEK3cHaRlTtEHck6dUaLdV5O6xQgEaIZJXAUWXKtQKBgQD3AT8dLedm9utJDTBM\nTQpZDjaFh+wGqIY+PhLgjIUFYwyTm9ntzMu6IDnpziu/IZ/u7GPVyf570AhqZakz\nKSZlvKJ56AbhVEPHGGpjfTHtLOQ1HhQdn3eMU01v9rp+iKCtcUcudYu2xZElyVLy\nxr8rUoh57kOxszmyeb/TPFjB7wKBgQC/V8JzLeZRplUdRAcNBMrWwTeT5MsA0c3a\ndYTkiFHnOqE9mYLknswEb9SX3ieN9hNSPh12sSSMEA3vpH5etq8nDTm9qwJB/9wg\nR+tRLaRQjFP25XAMlaiN+NW/MEoMbNxcjkM7CW/DmsFE9DgpF8yIa6GuZ/UYjGFj\nkE7sk1qU1QKBgQDckNZlHgqW3UM5VneciucEozZ4gul3AKHvjsqYjaJzLwGaBf/S\n45/AsupEKADUihgg6CI2VEvVD+2T5Pf0YXiSPKHxrgoGyJJFhT3rXW5p1j5qWFOq\nKC4+tlxd8LqUJzkj6BWiHQEH0uBMF7zkYilvbCHGj8cPNXX+M83huO+hLQKBgBJL\nV8Ifb1f7KUQlDu+Ft8cUrjWruGUZqi7q8YvQJNSQ3H3BQayOKj96Wb8zdGC0WGCS\no8qHYVEq78or1hFEMjbvoseppAufZPKJLcyTKpSw9g4zHaV2YalBU152RX4uolsP\nFwp7+n2fPD9VglEbf2jDsa+1LM/uDBmy4HjqFc0JAoGAYdBfVek/PfwqXW/nbHge\nuo9UYY3LKLdJw6yiYbKYuSreowl5hZNkrlLGDkoBRQoEkG6b862lr7SobIDTrl6K\nd9ILeImUXB8KJzt6KD6aCHOI3keKEsjj7QVxuV1UCongkahI9owA3DHwE7bPGVte\nfz/pK8wdwt4XacwzdpH/phw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "academics@uil-academics.iam.gserviceaccount.com",
+  "client_id": "114620499227117693947",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/academics%40uil-academics.iam.gserviceaccount.com"
+}
